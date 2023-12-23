@@ -17,8 +17,8 @@ Hoobank aims to redefine the banking experience by combining innovative technolo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/chrismbah/Coin-Pulse.git`
-2. Navigate to the project directory: `cd Coin-Pulse`
+1. Clone the repository: `git clone https://github.com/chrismbah/Hoobank.git`
+2. Navigate to the project directory: `cd Hoobank`
 3. Install dependencies: `npm install`
 
 ## Usage
