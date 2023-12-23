@@ -1,8 +1,44 @@
-# React + Vite
+# Hoobank - Next Generation Banking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Hoobank, the future of banking! This project is a front-end implementation of a cutting-edge banking website built using React.js. The design inspiration comes from Figma, ensuring a sleek and modern user interface.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Hoobank aims to redefine the banking experience by combining innovative technologies with a user-friendly design. The project focuses on providing a seamless and secure banking interface for users.
+
+## Features
+
+- **User Authentication**: Secure user authentication for a personalized experience.
+- **Account Overview**: View your account balance, recent transactions, and other account details.
+- **Transfer Funds**: Easily transfer funds between your accounts or to other users.
+- **Bill Payments**: Pay bills hassle-free with our intuitive bill payment feature.
+- **Mobile Responsiveness**: Enjoy a consistent experience across various devices with responsive design.
+- **Transaction History**: Keep track of your financial activities with a detailed transaction history.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/chrismbah/Coin-Pulse.git`
+2. Navigate to the project directory: `cd Coin-Pulse`
+3. Install dependencies: `npm install`
+
+## Usage
+
+1. Run the app: `npm run dev`
+2. Open your web browser and go to: `http://localhost:5173`
+
+## Technologies Used
+- Javascript
+- React Js
+- Tailwind CSS
+- Vite
